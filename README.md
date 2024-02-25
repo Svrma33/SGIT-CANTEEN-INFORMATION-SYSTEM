@@ -1,1 +1,1 @@
-# sgit-canteen-information-system
+# SGIT Canteen Information System
