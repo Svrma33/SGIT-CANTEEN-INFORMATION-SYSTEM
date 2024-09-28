@@ -66,6 +66,6 @@ Dowload zip file or clone this repository
 ### Usage
 ### 1. Run the application:
 ```bash
-python main.py
+python login.py
 ```
 ### 2. Follow the on-screen instructions to register or log in
