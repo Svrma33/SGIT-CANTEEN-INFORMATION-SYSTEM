@@ -1,1 +1,0 @@
-self.root.resizable(False,False)
